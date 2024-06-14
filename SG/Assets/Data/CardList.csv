@@ -1,0 +1,24 @@
+﻿#,id,cardname,attack,hp,Attributes-like eat
+monster,1,golden bull,5,30,meat
+monster,2,Royal Fish,5,30,fish
+monster,3,Vegan Man,3,40,vegetable
+monster,4,spaghetti Man,3,40,pasta
+,,,,,
+#,id,cardname,attack,,Attributes
+MainMaterial,5,Dorade,4,,fish
+MainMaterial,6,Lachs,5,,fish
+MainMaterial,7,Pork,4,,meat
+MainMaterial,8,Beef,5,,meat
+MainMaterial,9,Chicken,4,,meat
+MainMaterial,10,lettuce,3,,vegetable
+MainMaterial,11,Chinese Cabbage,3,,vegetable
+MainMaterial,12,asparagus,3,,vegetable
+MainMaterial,13,pasta,3,,pasta
+MainMaterial,14,spaghetti,3,,pasta
+MainMaterial,15,mushroom,3,,vegetable
+Topping,16,paprika,1,,vegetable
+Topping,17,onion,1,,vegetable
+Topping,18,carrot,1,,vegetable
+Topping,19,shrimp,1,,fish
+Topping,20,Bacon,1,,meat
+Topping,21,Minced meat,1,,meat
